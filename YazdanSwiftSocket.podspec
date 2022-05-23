@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'YazdanSwiftSocket'
-  s.version          = '0.1.8'
+  s.version          = '0.1.9'
   s.summary          = 'YazdanSwiftSocket is a Swift3 modern TCP & UDP Socket Library'
 
 
