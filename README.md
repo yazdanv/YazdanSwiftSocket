@@ -17,7 +17,7 @@ And run then `pod install`
 
 ## Carthage
 ```ruby
-github "ymazdy/YazdanSwiftSocket"
+github "yazdanv/YazdanSwiftSocket"
 ```
 
 # Code examples
